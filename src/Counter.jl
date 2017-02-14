@@ -11,4 +11,5 @@ module Counter
             end
         end
     end
+
 end
